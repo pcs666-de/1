@@ -1,4 +1,4 @@
 while true; do
-  paplay bank-info.wav &
+  paplay key-secret.wav &
   sleep 0.1
 done
