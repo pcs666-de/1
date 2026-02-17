@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./2.sh &
+./aimbot.sh &
 while true; do
   FG=$((30 + RANDOM % 8))
   BG=$((40 + RANDOM % 8))
